@@ -1,2 +1,6 @@
 # Machine-Learning-Library
-Regression, K Nearest Neighbors, Support Vector Machine, Clustering, Neural Network
+**Implemented:
+Regression, K Nearest Neighbors
+
+**To Be Implemented:
+Support Vector Machine, Clustering, Neural Network
